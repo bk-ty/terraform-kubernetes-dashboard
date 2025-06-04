@@ -51,5 +51,5 @@ variable "enable_skip_button" {
 variable "chart_version" {
   description = "Helm Chart version (Not Recomended)"
   type        = string
-  default     = "4.6.0"
+  default     = "6.0.8"
 }
